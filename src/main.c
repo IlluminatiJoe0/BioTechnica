@@ -82,6 +82,8 @@ int main ()
 
 				// Draw world
 				DrawWorld(world, &camera, grass);
+				
+				// Draw Entities
 				DrawEntities(entityList, &camera);
 
 				// Draw player
