@@ -1,0 +1,13 @@
+"filename", "language", "C", "C++", "comment", "blank", "total"
+"c:\Users\actio\Documents\biot\src\config.h", "C++", 0, 12, 9, 5, 26
+"c:\Users\actio\Documents\biot\src\enemy.c", "C", 17, 0, 0, 5, 22
+"c:\Users\actio\Documents\biot\src\enemy.h", "C", 12, 0, 3, 7, 22
+"c:\Users\actio\Documents\biot\src\main.c", "C", 48, 0, 18, 19, 85
+"c:\Users\actio\Documents\biot\src\player.c", "C", 68, 0, 2, 15, 85
+"c:\Users\actio\Documents\biot\src\player.h", "C", 21, 0, 9, 6, 36
+"c:\Users\actio\Documents\biot\src\tile.h", "C++", 0, 8, 0, 2, 10
+"c:\Users\actio\Documents\biot\src\utils.c", "C", 5, 0, 0, 1, 6
+"c:\Users\actio\Documents\biot\src\utils.h", "C", 4, 0, 1, 2, 7
+"c:\Users\actio\Documents\biot\src\world.c", "C", 70, 0, 2, 13, 85
+"c:\Users\actio\Documents\biot\src\world.h", "C", 11, 0, 0, 4, 15
+"Total", "-", 256, 20, 44, 79, 399
